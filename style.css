@@ -1,0 +1,21 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey;
+}
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR4lqgtbYoZxoj7pEVQ60yOo449Sho8JEZ_Q&usqp=CAU");
+    background-position: center;
+}
